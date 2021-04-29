@@ -11,7 +11,7 @@
 
 html {
   font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 body {
@@ -23,6 +23,9 @@ body {
   max-width: 840px;
   margin-left: auto;
   margin-right: auto;
+}
+.upper-container {
+  background-image: url(/panske-obleky/img/bg.jpeg);
 }
 header {
   padding-top: 4rem;
@@ -57,4 +60,9 @@ h1.site-title span {
 .t-shirt {
   stroke: #000;
   stroke-width: 2;
+}
+
+.main-container {
+  width: 80%;
+  margin: auto;
 }
