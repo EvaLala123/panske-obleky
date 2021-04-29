@@ -66,3 +66,7 @@ h1.site-title span {
   width: 80%;
   margin: auto;
 }
+
+.upper_container {
+  background-image: url(/panske-obleky/img/bg.jpeg);
+}
