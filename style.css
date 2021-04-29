@@ -50,6 +50,7 @@ h1.site-title span {
   margin-top: -5rem;
   padding: 3rem;
   background-color: #141518;
+  display: flex;
 }
 
 .product__image {
@@ -69,4 +70,13 @@ h1.site-title span {
 
 .upper_container {
   background-image: url(/panske-obleky/img/bg.jpeg);
+}
+
+.btn {
+  box-shadow: 1px 1px 1px #959595;
+  padding: 10px 15px;
+  border: 0px solid white;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
 }
